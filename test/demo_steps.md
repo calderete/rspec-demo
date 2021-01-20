@@ -1,0 +1,1 @@
+First think about the functionality you would like to have in your code...if it helps write some pseudo code with imaginary methods. This takes some imagination as you need to break down your problem, this can happen before, during, or more likely, some combination of the two.
